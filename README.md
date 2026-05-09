@@ -61,7 +61,7 @@ Python, Satellite API, Folium, Streamlit, Pandas, NumPy
 - `requirements.txt`: Python dependencies
 
 ## Live demo
-https://rakshitha-m-r05-urban-heat-hyperlocal-mapping-appapp-2f7cnl.streamlit.app/
+https://malika26-08-urban-heat-hyperlocal-mapping-appapp-ybdcou.streamlit.app/
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
